@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abhinav3967&theme=radical&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-I make games in godot
+I am Abhinav Kuruvila Joseph.
+I make games and softwares.
+Linuxer, FOSS promoter.
+
 Reach me :
   Discord: ABHI #9163
   EMail: abhinav3967@gmail.com
