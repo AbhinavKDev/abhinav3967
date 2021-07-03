@@ -24,3 +24,5 @@ Linuxer, FOSS promoter.
 Reach me :
   Discord: ABHI #9163
   EMail: abhinav3967@gmail.com
+
+Donate money to me on [Liberapay](https://en.liberapay.com/abhinavkdev/)
