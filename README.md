@@ -7,7 +7,7 @@ I make games and softwares.
 Linuxer, FOSS promoter.
 
 Reach me :
-  Discord: Isotoxal #9163
-  E-Mail: isotoxal@pm.me
+  - Discord: Isotoxal #9163
+  - E-Mail: isotoxal@pm.me
 
 Donate money to me on [Liberapay](https://en.liberapay.com/abhinavkdev/)
