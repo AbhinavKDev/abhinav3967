@@ -6,6 +6,8 @@ I make games and software
 
 I love rust & godot and is a FOSS promoter!!!
 
+I've got 8 year experience ( I know it's hard to believe, but you gotta count my scratch stuff)
+
 > A JEE Aspirant so you know the drill, gonna be idle for till 2024 JEE's.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsotoxalDev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
